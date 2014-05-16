@@ -1,0 +1,114 @@
+/* ICONS ! */
+table.issues tbody tr > td {
+    text-align: center;
+    vertical-align: middle;
+}
+/* Tracker icons */
+table.issues tbody tr > td.tracker {
+    padding-left: 20px;
+    text-align: justify;
+    vertical-align: middle;
+}
+
+
+/* bug */
+table.issues tbody tr.tracker-1 > td.tracker {
+    background: url("../images/issue_icons/bug.png")left center no-repeat;
+}
+
+/* feature */
+table.issues tbody tr.tracker-2 > td.tracker {
+    background: url("../images/issue_icons/brick_add.png")left center no-repeat;
+}
+table.issues tbody tr.tracker-6 > td.tracker {
+    background: url("../images/issue_icons/brick_add.png")left center no-repeat;
+}
+
+/* support */
+table.issues tbody tr.tracker-3 > td.tracker {
+    background: url("../images/issue_icons/shield.png")left center no-repeat;
+}
+
+/* Status icons */
+table.issues tbody tr > td.status {
+    padding-left: 20px;
+    text-align: justify;
+    vertical-align: middle;
+}
+
+/* New */
+table.issues tbody tr.status-1 > td.status {
+    background: url("../images/issue_icons/status_open.gif") left center no-repeat;
+}
+
+/* In progress */
+table.issues tbody tr.status-2 > td.status {
+    background: url("../images/issue_icons/status_inprogress.gif") left center no-repeat;
+}
+
+/* Solved */
+table.issues tbody tr.status-3 > td.status {
+    background: url("../images/issue_icons/status_resolved.gif") left center no-repeat;
+}
+
+/* Callback */
+table.issues tbody tr.status-4 > td.status {
+    background: url("../images/issue_icons/status_email.gif") left center no-repeat;
+}
+
+/* Closed */
+table.issues tbody tr.status-5 > td.status {
+    background: url("../images/issue_icons/status_closed.gif") left center no-repeat;
+}
+
+/* Отказ */
+table.issues tbody tr.status-6 > td.status {
+    background: url("../images/issue_icons/status_trash.gif") left center no-repeat;
+}
+
+/* Stoppped */
+table.issues tbody tr.status-8 > td.status {
+    background: url("../images/issue_icons/status_generic.gif") left center no-repeat;
+}
+
+/* Reopen  */
+table.issues tbody tr.status-9 > td.status {
+    background: url("../images/issue_icons/status_reopened.gif") left center no-repeat;
+}
+
+/* Code review */
+table.issues tbody tr.status-14 > td.status {
+    background: url("../images/issue_icons/status_visible.gif") left center no-repeat;
+}
+
+/* Send to vendor*/
+table.issues tbody tr.status-11 > td.status {
+    background: url("../images/issue_icons/status_up.gif") left center no-repeat;
+}
+
+/* In testing */
+table.issues tbody tr.status-12 > td.status {
+    background: url("../images/issue_icons/status_inprogress.gif") left center no-repeat;
+}
+
+/* In doc */
+table.issues tbody tr.status-13 > td.status {
+    background: url("../images/issue_icons/status_document.gif") left center no-repeat;
+}
+
+
+/* Code review */
+table.issues tbody tr.status-14 > td.status {
+    background: url("../images/issue_icons/status_visible.gif") left center no-repeat;
+}
+
+
+/* Can not reproduce */
+table.issues tbody tr.status-15 > td.status {
+    background: url("../images/issue_icons/status_up.gif") left center no-repeat;
+}
+
+
+
+
+
