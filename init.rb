@@ -5,8 +5,8 @@ Redmine::Plugin.register :redmine_issue_icons do
   author 'Eugene Batogov'
   description 'This plugin add icons to redmine issue table'
   version '1.0.0'
-  url 'https://github.com/martin-denizet/redmine_login_audit'
-  author_url 'http://martin-denizet.com'
+  url 'https://github.com/johnbat26/redmine_issue_icons.git'
+  author_url 'https://github.com/johnbat26/'
 end
 
 module RedmineIssueIcons
