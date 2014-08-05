@@ -15,12 +15,19 @@ table.issues tbody tr > td.tracker {
 table.issues tbody tr.tracker-1 > td.tracker {
     background: url("../images/issue_icons/bug.png")left center no-repeat;
 }
+table.issues tbody tr.tracker-13 > td.tracker {
+    background: url("../images/issue_icons/bug.png")left center no-repeat;
+}
+
 
 /* feature */
 table.issues tbody tr.tracker-2 > td.tracker {
     background: url("../images/issue_icons/brick_add.png")left center no-repeat;
 }
 table.issues tbody tr.tracker-6 > td.tracker {
+    background: url("../images/issue_icons/brick_add.png")left center no-repeat;
+}
+table.issues tbody tr.tracker-12 > td.tracker {
     background: url("../images/issue_icons/brick_add.png")left center no-repeat;
 }
 
@@ -109,6 +116,44 @@ table.issues tbody tr.status-15 > td.status {
 }
 
 
+/* Analytics */
+/*
+table.issues tbody tr.tracker-10 > td.tracker {
+    background: url("../images/issue_icons/shield.png")left center no-repeat;
+}
+*/
 
+/* test case */
+table.issues tbody tr.tracker-11 > td.tracker {
+    background: url("../images/issue_icons/newSubTaskButton.png")left center no-repeat;
+}
+
+table.issues tbody tr.tracker-5 > td.tracker {
+    background: url("../images/issue_icons/newSubTaskButton.png")left center no-repeat;
+}
+
+
+/*  Manage */
+table.issues tbody tr.tracker-8 > td.tracker {
+    background: url("../images/issue_icons/user_list.gif")left center no-repeat;
+}
+
+
+/*  Meeting */
+table.issues tbody tr.tracker-7 > td.tracker {
+    background: url("../images/issue_icons/voteButton.png")left center no-repeat;
+}
+
+
+/*  Learning */
+table.issues tbody tr.tracker-4 > td.tracker {
+    background: url("../images/issue_icons/BookY.gif")left center no-repeat;
+}
+
+
+/*  Оценка */
+table.issues tbody tr.tracker-9 > td.tracker {
+    background: url("../images/issue_icons/watchingIssueIcon.png")left center no-repeat;
+}
 
 
